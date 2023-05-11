@@ -94,7 +94,7 @@ Complete Code  :
     }
 ```
 Output  :
-<img src=https://github.com/dheeraj-bhadoria/ProgressButton-Compose-Loading-Button-Library/blob/main/progressbutton.gif >
+<img src=https://github.com/dheeraj-bhadoria/Compose-Fancy-Dialog-Library/edit/main/composefancydialog.gif >
 
 
 ### License
