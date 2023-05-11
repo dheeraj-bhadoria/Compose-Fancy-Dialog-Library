@@ -94,7 +94,7 @@ Complete Code  :
     }
 ```
 Output  :
-<img src=https://github.com/dheeraj-bhadoria/Compose-Fancy-Dialog-Library/edit/main/composefancydialog.gif >
+<img src="https://github.com/dheeraj-bhadoria/Compose-Fancy-Dialog-Library/blob/main/composefancydialog.gif" >
 
 
 ### License
